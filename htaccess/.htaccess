@@ -1,0 +1,4 @@
+<IfModule php5_module.c>
+# php_value doc_root "C:/skipjackdev/PHP5"
+php_value memory_limit 64M
+</IfModule>

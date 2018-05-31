@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "array01.php",
+			"settings":
+			{
+				"buffer_size": 32,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "|+| \"$a\" = array[3]\n\t0 = (int) 1\n\t1 = (int) 2\n\t2 = (int) 3\n",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> C:\\skipjackdev\\PHP5\\infosight\\vivo-sitetools\\www\\admin\\includes\\classes\\localkpi-importexport.class.php\n\t|+| 477\n=> C:\\skipjackdev\\PHP5\\infosight\\vivo-sitetools\\www\\admin\\localkpi-import.php\n\t|+| 27\n=> C:\\skipjackdev\\PHP5\\localhost\\_.php\n\t|+| 9\n=> C:\\skipjackdev\\PHP5\\localhost\\array01.php\n\t|+| 2\n",
+			"settings":
+			{
+				"buffer_size": 300,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/skipjackdev/PHP5/localhost"
+	],
+	"file_history":
+	[
+		"/C/Users/Jeremy/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/Jeremy/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/skipjackdev/PHP5/localhost/localhost.sublime-project",
+		"/C/php/php.sublime-project",
+		"/C/skipjackdev/PHP5/localhost/equality_test_01.php",
+		"/C/php/equality_test_01.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin/includes/classes/localkpi-importexport.class.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/components/smarty/sysplugins/smarty_internal_data.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/cache/smarty_compile/e90e0e2442eb13818a0ba9e505301138abacd6a5.file.edit-container.tpl.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/cache/smarty_compile/03c9ba2ab7e0a29f7c2eda5641e45d62c07eef73.file.localkpi-import.tpl.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/cache/smarty_compile/bece4e3afdcc77b024cbf31002827ddce9ca7e10.file.edit-pre-form.js.tpl.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin/localkpi-import.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/cache/smarty_compile/9bc98ec813b07b7e73381170f7d8a38529a55cfc.file.edit-pre-form.js.tpl.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/cache/smarty_compile/de2edf73bb7f6a0a97b9cb5623f13ececcc6a0a7.file.report-container.tpl.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/cache/smarty_compile/e954fb7be75f78df0356c7e0c47b935bd59c7bb0.file.tm-league-table.tpl.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/app/Http/Repository/SeaImportRepositoryShop.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/app/Http/Repository/SeaImportRepositoryForecourt.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/app/Http/Repository/SeaImportRepository.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Readers/LaravelExcelReader.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Excel.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/app/Http/Controllers/SeaAutoImportController.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/admin2/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/C/skipjackdev/PHP5/infosight/vivo-sitetools/www/sitetools.sublime-project"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "array01.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "localhost.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"16":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"23":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"24":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"25":
+				{
+					"group": 0,
+					"index": 3
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

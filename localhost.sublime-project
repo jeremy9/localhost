@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+		    "path_mapping": {
+		    	"C:/skipjackdev/PHP5/localhost/" : "C:/skipjackdev/PHP5/localhost/"
+		    },
+			"url": "http://localhost-php5/localhost/",
+			"super_globals": true,
+            "close_on_stop": true,
+		    "max_depth": 2,
+		    "max_children": 32
+		}
+	}
+}

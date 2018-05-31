@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test01</title>
+</head>
+<body>
+<script>
+    var myObj = {
+        property : "that",
+        whatsThis : function(that) {
+            setTimeout(function () {
+                alert(this);
+            }, 0);
+        }
+    }
+    myObj.whatsThis("?");
+</script>
+
+</body>
+</html>

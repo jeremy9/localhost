@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test01</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+</head>
+<body>
+<div id="mydiv"></div>
+<button id="clickme">Click me!</button>
+<script type="text/javascript">
+    $( document ).ready(function() {
+        // Your code here.
+        $('#clickme').click(function () {
+            test();
+        })
+    });
+    function test() {
+        $('#mydiv').html('<p>Hello, world!</p>');
+    }
+</script>
+</body>
+</html>

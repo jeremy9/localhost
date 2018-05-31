@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function randomThreeDigitNumber() {
+        var s = (Math.round(Math.random() * 999)).toString();
+        while (s.length < 3) {
+            s = '0' + s;
+        }
+        return s;
+    }
+</script>
+<button onclick="console.log(randomThreeDigitNumber());">Click me!</button>
+</body>
+</html>
