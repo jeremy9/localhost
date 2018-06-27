@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>foreach</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script>
+        function populate () {
+          var data = [ '0' ];
+          data.forEach(function(elem) {
+            // Add name as a link to list
+            $("#select_1").append('<option value="'+elem+'">'+elem+'</option>');
+          });
+        }
+        function empty () {
+          $('#select_1').empty();
+        }
+    </script>
+</head>
+<body>
+<div>
+    <select id="select_1"></select>
+</div>
+<br>
+<div>
+    <button onclick="populate(); return false;">populate</button>
+    <button onclick="empty(); return false;">empty</button>
+</div>
+</body>
+</html>
